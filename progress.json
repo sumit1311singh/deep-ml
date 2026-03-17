@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:57:24.774Z",
+  "generated_at": "2026-09-18T14:57:26.515Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -63,6 +63,84 @@
       "path": "problems/0116-derivative-of-a-polynomial",
       "first_solved_at": "2026-03-16T05:59:04.991Z",
       "last_pushed_at": "2026-03-16T05:59:04.991Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-03-17T05:39:02.581Z",
+      "last_pushed_at": "2026-03-17T05:39:02.581Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-03-17T05:44:41.527Z",
+      "last_pushed_at": "2026-03-17T05:44:41.527Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-03-17T05:52:44.559Z",
+      "last_pushed_at": "2026-03-17T05:52:44.559Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-03-17T05:54:28.557Z",
+      "last_pushed_at": "2026-03-17T05:54:28.557Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-03-17T17:22:13.744Z",
+      "last_pushed_at": "2026-03-17T17:22:13.744Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-03-17T17:24:56.052Z",
+      "last_pushed_at": "2026-03-17T17:24:56.052Z",
       "language": "python",
       "lines": 5
     }
