@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:57:28.307Z",
+  "generated_at": "2026-09-18T14:57:29.832Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -156,6 +156,45 @@
       "last_pushed_at": "2026-03-18T05:09:09.527Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-03-19T08:29:41.752Z",
+      "last_pushed_at": "2026-03-19T08:29:41.752Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-03-19T08:38:32.846Z",
+      "last_pushed_at": "2026-03-19T08:38:32.846Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-03-19T10:03:39.296Z",
+      "last_pushed_at": "2026-03-19T10:03:39.296Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
