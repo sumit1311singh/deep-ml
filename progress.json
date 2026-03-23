@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:59:17.649Z",
+  "generated_at": "2026-09-18T14:59:19.306Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -234,6 +234,58 @@
       "last_pushed_at": "2026-03-22T15:15:36.518Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-03-23T03:06:51.670Z",
+      "last_pushed_at": "2026-03-23T03:06:51.670Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-03-23T03:13:20.124Z",
+      "last_pushed_at": "2026-03-23T03:13:20.124Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-03-23T16:07:40.283Z",
+      "last_pushed_at": "2026-03-23T16:07:40.283Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-03-23T16:40:00.040Z",
+      "last_pushed_at": "2026-03-23T16:40:00.040Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
