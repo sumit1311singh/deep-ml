@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:59:22.975Z",
+  "generated_at": "2026-09-18T14:59:24.799Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -323,6 +323,19 @@
       "path": "problems/0312-quotient-rule-for-derivatives",
       "first_solved_at": "2026-03-25T03:57:03.766Z",
       "last_pushed_at": "2026-03-25T03:57:03.766Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-03-26T11:43:28.720Z",
+      "last_pushed_at": "2026-03-26T11:43:28.720Z",
       "language": "python",
       "lines": 36
     }
