@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:59:37.770Z",
+  "generated_at": "2026-09-18T14:59:39.538Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -429,6 +429,32 @@
       "last_pushed_at": "2026-04-03T07:54:35.177Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-04-04T13:34:17.226Z",
+      "last_pushed_at": "2026-04-04T13:34:17.226Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-04-04T16:12:13.447Z",
+      "last_pushed_at": "2026-04-04T16:12:13.447Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
