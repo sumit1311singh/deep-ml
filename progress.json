@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:59:39.538Z",
+  "generated_at": "2026-09-18T14:59:41.220Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -455,6 +455,84 @@
       "last_pushed_at": "2026-04-04T16:12:13.447Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-04-05T07:33:34.382Z",
+      "last_pushed_at": "2026-04-05T07:33:34.382Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-04-05T09:30:58.887Z",
+      "last_pushed_at": "2026-04-05T09:30:58.887Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-04-05T09:49:15.028Z",
+      "last_pushed_at": "2026-04-05T09:49:15.028Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-04-05T09:54:22.637Z",
+      "last_pushed_at": "2026-04-05T09:54:22.637Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-04-05T10:13:59.170Z",
+      "last_pushed_at": "2026-04-05T10:13:59.170Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-04-05T10:15:16.266Z",
+      "last_pushed_at": "2026-04-05T10:15:16.266Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
