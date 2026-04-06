@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:59:41.220Z",
+  "generated_at": "2026-09-18T14:59:43.035Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -533,6 +533,58 @@
       "last_pushed_at": "2026-04-05T10:15:16.266Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-04-06T04:26:07.725Z",
+      "last_pushed_at": "2026-04-06T04:26:07.725Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-04-06T04:36:48.460Z",
+      "last_pushed_at": "2026-04-06T04:36:48.460Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-04-06T04:53:39.536Z",
+      "last_pushed_at": "2026-04-06T04:53:39.536Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-04-06T06:32:40.538Z",
+      "last_pushed_at": "2026-04-06T06:32:40.538Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
