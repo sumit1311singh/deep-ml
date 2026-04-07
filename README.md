@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 43 problems · 2 labs · 0 math
+**47** solved · 45 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,8 +46,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-04-06 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-03-23 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-04-06 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-04-07 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-03-24 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-03-31 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-04-07 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-03-23 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-03-23 | [solution](problems/0007-matrix-transformation) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-03-26 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |

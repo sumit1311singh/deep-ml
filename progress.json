@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:59:43.035Z",
+  "generated_at": "2026-09-18T14:59:44.891Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -585,6 +585,32 @@
       "last_pushed_at": "2026-04-06T06:32:40.538Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-04-07T05:21:20.298Z",
+      "last_pushed_at": "2026-04-07T05:21:20.298Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-04-07T06:04:55.807Z",
+      "last_pushed_at": "2026-04-07T06:04:55.807Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
