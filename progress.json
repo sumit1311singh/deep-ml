@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:59:44.891Z",
+  "generated_at": "2026-09-18T14:59:46.774Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -611,6 +611,32 @@
       "last_pushed_at": "2026-04-07T06:04:55.807Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-04-08T05:14:31.397Z",
+      "last_pushed_at": "2026-04-08T05:14:31.397Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:147": {
+      "kind": "problem",
+      "id": "147",
+      "title": "GeLU Activation Function ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/147",
+      "path": "problems/0147-gelu-activation-function",
+      "first_solved_at": "2026-04-08T06:45:17.832Z",
+      "last_pushed_at": "2026-04-08T06:45:17.832Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
