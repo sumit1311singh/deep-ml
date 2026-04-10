@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:59:48.457Z",
+  "generated_at": "2026-09-18T14:59:50.128Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -663,6 +663,45 @@
       "last_pushed_at": "2026-04-09T17:00:20.428Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:283": {
+      "kind": "problem",
+      "id": "283",
+      "title": "Implement Hinge Loss for SVM",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/283",
+      "path": "problems/0283-implement-hinge-loss-for-svm",
+      "first_solved_at": "2026-04-10T06:36:46.291Z",
+      "last_pushed_at": "2026-04-10T06:36:46.291Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:263": {
+      "kind": "problem",
+      "id": "263",
+      "title": "Implement Binary Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/263",
+      "path": "problems/0263-implement-binary-cross-entropy-loss",
+      "first_solved_at": "2026-04-10T06:44:07.578Z",
+      "last_pushed_at": "2026-04-10T06:44:07.578Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-04-10T07:04:50.595Z",
+      "last_pushed_at": "2026-04-10T07:04:50.595Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
