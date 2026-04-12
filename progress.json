@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:59:52.009Z",
+  "generated_at": "2026-09-18T14:59:53.776Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -715,6 +715,19 @@
       "last_pushed_at": "2026-04-11T11:43:36.179Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:188": {
+      "kind": "problem",
+      "id": "188",
+      "title": "Gradient Checkpointing",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/188",
+      "path": "problems/0188-gradient-checkpointing",
+      "first_solved_at": "2026-04-12T15:54:53.270Z",
+      "last_pushed_at": "2026-04-12T15:54:53.270Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
