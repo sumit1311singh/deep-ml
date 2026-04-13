@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**56** solved · 54 problems · 2 labs · 0 math
+**57** solved · 55 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -61,6 +61,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-04-07 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-03-23 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-03-23 | [solution](problems/0007-matrix-transformation) |
+| [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-04-13 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-03-26 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-03-25 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-03-25 | [solution](problems/0312-quotient-rule-for-derivatives) |
