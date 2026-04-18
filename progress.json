@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:00:40.451Z",
+  "generated_at": "2026-09-18T15:00:42.436Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -793,6 +793,32 @@
       "last_pushed_at": "2026-04-17T16:58:50.576Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-04-18T13:29:06.699Z",
+      "last_pushed_at": "2026-04-18T13:29:06.699Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:150": {
+      "kind": "problem",
+      "id": "150",
+      "title": "Nesterov Accelerated Gradient Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/150",
+      "path": "problems/0150-nesterov-accelerated-gradient-optimizer",
+      "first_solved_at": "2026-04-18T13:44:54.270Z",
+      "last_pushed_at": "2026-04-18T13:44:54.270Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
