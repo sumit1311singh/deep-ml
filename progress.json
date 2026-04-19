@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:00:42.436Z",
+  "generated_at": "2026-09-18T15:00:44.252Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -819,6 +819,32 @@
       "last_pushed_at": "2026-04-18T13:44:54.270Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:198": {
+      "kind": "problem",
+      "id": "198",
+      "title": "Implement Weight Decay as L2 Regularization",
+      "difficulty": "easy",
+      "category": "Regularization",
+      "url": "https://www.deep-ml.com/problems/198",
+      "path": "problems/0198-implement-weight-decay-as-l2-regularization",
+      "first_solved_at": "2026-04-19T02:42:36.400Z",
+      "last_pushed_at": "2026-04-19T02:42:36.400Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:255": {
+      "kind": "problem",
+      "id": "255",
+      "title": "Implement Focal Loss for Imbalanced Classification",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/255",
+      "path": "problems/0255-implement-focal-loss-for-imbalanced-classification",
+      "first_solved_at": "2026-04-19T15:36:30.657Z",
+      "last_pushed_at": "2026-04-19T15:36:30.657Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
