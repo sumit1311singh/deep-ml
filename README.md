@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 64 problems · 2 labs · 0 math
+**70** solved · 68 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-09-18 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-03-16 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-04-08 | [solution](problems/0217-derivatives-of-activation-functions) |
+| [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2026-04-21 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-03-20 | [solution](problems/0016-feature-scaling-implementation) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-04-08 | [solution](problems/0147-gelu-activation-function) |
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2026-04-12 | [solution](problems/0188-gradient-checkpointing) |
@@ -54,12 +55,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-03-19 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-03-23 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-03-19 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-04-21 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-03-27 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-03-17 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-04-06 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-03-23 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-04-06 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-04-07 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-04-21 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-04-09 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-04-09 | [solution](problems/0219-derivative-of-softmax) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-04-14 | [solution](problems/0205-entropy-cross-entropy) |
@@ -76,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-03-25 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-03-29 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-03-28 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-04-21 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 
 ## Labs
 
