@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:00:53.674Z",
+  "generated_at": "2026-09-18T15:00:55.786Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -962,6 +962,58 @@
       "last_pushed_at": "2026-04-24T17:34:25.728Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-04-25T07:42:01.503Z",
+      "last_pushed_at": "2026-04-25T07:42:01.503Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-04-25T08:09:17.848Z",
+      "last_pushed_at": "2026-04-25T08:09:17.848Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:126": {
+      "kind": "problem",
+      "id": "126",
+      "title": "Implement Group Normalization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/126",
+      "path": "problems/0126-implement-group-normalization",
+      "first_solved_at": "2026-04-25T08:44:39.678Z",
+      "last_pushed_at": "2026-04-25T08:44:39.678Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-04-25T10:41:04.621Z",
+      "last_pushed_at": "2026-04-25T10:41:04.621Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
