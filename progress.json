@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:00:55.786Z",
+  "generated_at": "2026-09-18T15:00:57.550Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1014,6 +1014,45 @@
       "last_pushed_at": "2026-04-25T10:41:04.621Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-04-26T07:32:44.259Z",
+      "last_pushed_at": "2026-04-26T07:32:44.259Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-04-26T17:12:21.824Z",
+      "last_pushed_at": "2026-04-26T17:12:21.824Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:340": {
+      "kind": "problem",
+      "id": "340",
+      "title": "Exponential Distribution PDF and CDF",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/340",
+      "path": "problems/0340-exponential-distribution-pdf-and-cdf",
+      "first_solved_at": "2026-04-26T17:35:11.833Z",
+      "last_pushed_at": "2026-04-26T17:35:11.833Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
