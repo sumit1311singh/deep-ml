@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:00:57.550Z",
+  "generated_at": "2026-09-18T15:00:59.341Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1053,6 +1053,45 @@
       "last_pushed_at": "2026-04-26T17:35:11.833Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-04-27T02:58:55.157Z",
+      "last_pushed_at": "2026-04-27T02:58:55.157Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-04-27T03:08:51.523Z",
+      "last_pushed_at": "2026-04-27T03:08:51.523Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:292": {
+      "kind": "problem",
+      "id": "292",
+      "title": "Implement Gradient Clipping by Value",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/292",
+      "path": "problems/0292-implement-gradient-clipping-by-value",
+      "first_solved_at": "2026-04-27T06:14:46.417Z",
+      "last_pushed_at": "2026-04-27T06:14:46.417Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

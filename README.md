@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 79 problems · 2 labs · 0 math
+**84** solved · 82 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,10 +32,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2026-04-21 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-03-20 | [solution](problems/0016-feature-scaling-implementation) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-04-08 | [solution](problems/0147-gelu-activation-function) |
+| [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-04-27 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2026-04-12 | [solution](problems/0188-gradient-checkpointing) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-03-22 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-04-10 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
+| [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-04-27 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-04-10 | [solution](problems/0283-implement-hinge-loss-for-svm) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-04-27 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-04-17 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-03-21 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-04-04 | [solution](problems/0043-implement-ridge-regression-loss-function) |
