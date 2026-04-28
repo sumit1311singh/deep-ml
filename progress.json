@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:00:59.341Z",
+  "generated_at": "2026-09-18T15:01:00.990Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1092,6 +1092,32 @@
       "last_pushed_at": "2026-04-27T06:14:46.417Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:290": {
+      "kind": "problem",
+      "id": "290",
+      "title": "Implement He Weight Initialization",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/290",
+      "path": "problems/0290-implement-he-weight-initialization",
+      "first_solved_at": "2026-04-28T18:28:03.087Z",
+      "last_pushed_at": "2026-04-28T18:28:03.087Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:369": {
+      "kind": "problem",
+      "id": "369",
+      "title": "Implement Xavier/Glorot Weight Initialization",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/369",
+      "path": "problems/0369-implement-xavier-glorot-weight-initialization",
+      "first_solved_at": "2026-04-28T18:31:18.165Z",
+      "last_pushed_at": "2026-04-28T18:31:18.165Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
