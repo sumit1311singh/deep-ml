@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:01:02.942Z",
+  "generated_at": "2026-09-18T15:01:04.729Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1131,6 +1131,32 @@
       "last_pushed_at": "2026-04-30T09:56:46.337Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2026-05-01T02:59:35.891Z",
+      "last_pushed_at": "2026-05-01T02:59:35.891Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-05-01T03:05:24.325Z",
+      "last_pushed_at": "2026-05-01T03:05:24.325Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
