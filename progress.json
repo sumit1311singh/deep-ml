@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:01:17.846Z",
+  "generated_at": "2026-09-18T15:01:20.125Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1248,6 +1248,58 @@
       "last_pushed_at": "2026-05-11T18:06:28.452Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-05-12T07:32:52.145Z",
+      "last_pushed_at": "2026-05-12T07:32:52.145Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-05-12T14:22:20.966Z",
+      "last_pushed_at": "2026-05-12T14:22:20.966Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-05-12T14:25:33.306Z",
+      "last_pushed_at": "2026-05-12T14:25:33.306Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-05-12T14:28:53.599Z",
+      "last_pushed_at": "2026-05-12T14:28:53.599Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
