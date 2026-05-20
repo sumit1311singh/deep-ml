@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:02:12.749Z",
+  "generated_at": "2026-09-18T15:02:14.579Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1443,6 +1443,19 @@
       "last_pushed_at": "2026-05-19T05:29:02.456Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:197": {
+      "kind": "problem",
+      "id": "197",
+      "title": "Gradient Clipping by Global Norm",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/197",
+      "path": "problems/0197-gradient-clipping-by-global-norm",
+      "first_solved_at": "2026-05-20T16:15:08.774Z",
+      "last_pushed_at": "2026-05-20T16:15:08.774Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
