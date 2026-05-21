@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:02:14.579Z",
+  "generated_at": "2026-09-18T15:02:16.125Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1456,6 +1456,19 @@
       "last_pushed_at": "2026-05-20T16:15:08.774Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:194": {
+      "kind": "problem",
+      "id": "194",
+      "title": "Implement Label Smoothing for Multi-Class Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/194",
+      "path": "problems/0194-implement-label-smoothing-for-multi-class-cross-entropy",
+      "first_solved_at": "2026-05-21T14:45:53.715Z",
+      "last_pushed_at": "2026-05-21T14:45:53.715Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
