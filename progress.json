@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:02:17.645Z",
+  "generated_at": "2026-09-18T15:02:19.152Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1482,6 +1482,71 @@
       "last_pushed_at": "2026-05-22T04:57:47.566Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:990": {
+      "kind": "problem",
+      "id": "990",
+      "title": "Learning Rate Range Finder for Linear Regression",
+      "difficulty": "easy",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/990",
+      "path": "problems/0990-learning-rate-range-finder-for-linear-regression",
+      "first_solved_at": "2026-05-23T06:08:29.555Z",
+      "last_pushed_at": "2026-05-23T06:08:29.555Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:813": {
+      "kind": "problem",
+      "id": "813",
+      "title": "Epsilon-Insensitive Loss for SVM Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/813",
+      "path": "problems/0813-epsilon-insensitive-loss-for-svm-regression",
+      "first_solved_at": "2026-05-23T07:23:22.166Z",
+      "last_pushed_at": "2026-05-23T07:23:22.166Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:802": {
+      "kind": "problem",
+      "id": "802",
+      "title": "Stochastic Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/802",
+      "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-05-23T08:32:22.857Z",
+      "last_pushed_at": "2026-05-23T08:32:22.857Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:803": {
+      "kind": "problem",
+      "id": "803",
+      "title": "Mini-Batch Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/803",
+      "path": "problems/0803-mini-batch-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-05-23T10:44:52.724Z",
+      "last_pushed_at": "2026-05-23T10:44:52.724Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:139": {
+      "kind": "problem",
+      "id": "139",
+      "title": "Elastic Net Regression via Gradient Descent",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/139",
+      "path": "problems/0139-elastic-net-regression-via-gradient-descent",
+      "first_solved_at": "2026-05-23T12:50:35.718Z",
+      "last_pushed_at": "2026-05-23T12:50:35.718Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
