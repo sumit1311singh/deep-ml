@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:02:19.152Z",
+  "generated_at": "2026-09-18T15:02:20.960Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1547,6 +1547,58 @@
       "last_pushed_at": "2026-05-23T12:50:35.718Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:885": {
+      "kind": "problem",
+      "id": "885",
+      "title": "Build a Linear Regression Model with nn.Module",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/885",
+      "path": "problems/0885-build-a-linear-regression-model-with-nn-module",
+      "first_solved_at": "2026-05-26T10:59:28.132Z",
+      "last_pushed_at": "2026-05-26T10:59:28.132Z",
+      "language": "python",
+      "lines": 13
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-05-26T12:56:47.436Z",
+      "last_pushed_at": "2026-05-26T12:56:47.436Z",
+      "language": "python",
+      "lines": 36
+    },
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-05-26T14:14:46.423Z",
+      "last_pushed_at": "2026-05-26T14:14:46.423Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:889": {
+      "kind": "problem",
+      "id": "889",
+      "title": "Create a Float Tensor with Tinygrad",
+      "difficulty": "easy",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/889",
+      "path": "problems/0889-create-a-float-tensor-with-tinygrad",
+      "first_solved_at": "2026-05-26T16:01:08.762Z",
+      "last_pushed_at": "2026-05-26T16:01:08.762Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
