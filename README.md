@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**137** solved · 131 problems · 6 labs · 0 math
+**138** solved · 132 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -136,6 +136,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-04-13 | [solution](problems/0313-numerical-gradient-checking) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-05-03 | [solution](problems/0190-overlapping-max-pooling) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-03-26 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-05-28 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-03-25 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-03-25 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-05-11 | [solution](problems/0041-simple-convolutional-2d-layer) |
