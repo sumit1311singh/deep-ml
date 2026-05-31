@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:02:27.768Z",
+  "generated_at": "2026-09-18T15:02:29.612Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1820,6 +1820,84 @@
       "last_pushed_at": "2026-05-30T15:47:12.921Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:138": {
+      "kind": "problem",
+      "id": "138",
+      "title": "Find the Best Gini-Based Split for a Binary Decision Tree",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/138",
+      "path": "problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree",
+      "first_solved_at": "2026-05-31T06:22:43.010Z",
+      "last_pushed_at": "2026-05-31T06:22:43.010Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-05-31T09:19:09.106Z",
+      "last_pushed_at": "2026-05-31T09:19:09.106Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2026-05-31T11:21:15.160Z",
+      "last_pushed_at": "2026-05-31T11:21:15.160Z",
+      "language": "python",
+      "lines": 64
+    },
+    "problem:908": {
+      "kind": "problem",
+      "id": "908",
+      "title": "Implement LayerNorm from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/908",
+      "path": "problems/0908-implement-layernorm-from-scratch",
+      "first_solved_at": "2026-05-31T11:54:52.033Z",
+      "last_pushed_at": "2026-05-31T11:54:52.033Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:913": {
+      "kind": "problem",
+      "id": "913",
+      "title": "Early Stopping with Patience",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/913",
+      "path": "problems/0913-early-stopping-with-patience",
+      "first_solved_at": "2026-05-31T12:44:03.477Z",
+      "last_pushed_at": "2026-05-31T12:44:03.477Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:910": {
+      "kind": "problem",
+      "id": "910",
+      "title": "Cosine LR Schedule with Linear Warmup",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/910",
+      "path": "problems/0910-cosine-lr-schedule-with-linear-warmup",
+      "first_solved_at": "2026-05-31T13:05:09.618Z",
+      "last_pushed_at": "2026-05-31T13:05:09.618Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
