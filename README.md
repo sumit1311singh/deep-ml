@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**146** solved · 140 problems · 6 labs · 0 math
+**150** solved · 144 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-03-16 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-04-08 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-05-12 | [solution](problems/0078-descriptive-statistics-calculator) |
+| [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-06-01 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-04-25 | [solution](problems/0083-dot-product-calculator) |
 | [Early Stopping with Patience](https://www.deep-ml.com/problems/913) | easy | 2026-05-31 | [solution](problems/0913-early-stopping-with-patience) |
 | [Exponential Distribution PDF and CDF](https://www.deep-ml.com/problems/340) | easy | 2026-04-26 | [solution](problems/0340-exponential-distribution-pdf-and-cdf) |
@@ -64,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-05-31 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-04-30 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-04-27 | [solution](problems/0292-implement-gradient-clipping-by-value) |
+| [Implement Hard Voting Classifier](https://www.deep-ml.com/problems/305) | easy | 2026-06-01 | [solution](problems/0305-implement-hard-voting-classifier) |
 | [Implement He Weight Initialization](https://www.deep-ml.com/problems/290) | easy | 2026-04-28 | [solution](problems/0290-implement-he-weight-initialization) |
 | [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-04-10 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-05-31 | [solution](problems/0908-implement-layernorm-from-scratch) |
@@ -127,12 +129,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Cosine Annealing with Warm Restarts](https://www.deep-ml.com/problems/392) | medium | 2026-04-22 | [solution](problems/0392-implement-cosine-annealing-with-warm-restarts) |
 | [Implement Focal Loss for Imbalanced Classification](https://www.deep-ml.com/problems/255) | medium | 2026-04-19 | [solution](problems/0255-implement-focal-loss-for-imbalanced-classification) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-04-15 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-06-01 | [solution](problems/0288-implement-grid-search) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-04-25 | [solution](problems/0126-implement-group-normalization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-05-22 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Label Smoothing for Multi-Class Cross-Entropy](https://www.deep-ml.com/problems/194) | medium | 2026-05-21 | [solution](problems/0194-implement-label-smoothing-for-multi-class-cross-entropy) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-05-14 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-04-25 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-03-24 | [solution](problems/0200-implement-rmsprop-optimizer) |
+| [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-06-01 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-05-18 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-03-31 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-04-07 | [solution](problems/0202-jacobian-matrix-calculation) |
