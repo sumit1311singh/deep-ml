@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**150** solved · 144 problems · 6 labs · 0 math
+**152** solved · 146 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -122,6 +122,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-04-14 | [solution](problems/0205-entropy-cross-entropy) |
 | [Epsilon-Insensitive Loss for SVM Regression](https://www.deep-ml.com/problems/813) | medium | 2026-05-23 | [solution](problems/0813-epsilon-insensitive-loss-for-svm-regression) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-05-31 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
+| [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-06-02 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-05-20 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-04-23 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-24 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
@@ -135,6 +136,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Label Smoothing for Multi-Class Cross-Entropy](https://www.deep-ml.com/problems/194) | medium | 2026-05-21 | [solution](problems/0194-implement-label-smoothing-for-multi-class-cross-entropy) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-05-14 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-04-25 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
+| [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-06-02 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-03-24 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-06-01 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-05-18 | [solution](problems/0192-implement-the-huber-loss-function) |

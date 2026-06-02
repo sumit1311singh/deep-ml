@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:03:03.388Z",
+  "generated_at": "2026-09-18T15:03:34.841Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1950,6 +1950,32 @@
       "last_pushed_at": "2026-06-01T11:41:37.215Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:261": {
+      "kind": "problem",
+      "id": "261",
+      "title": "Gaussian Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/261",
+      "path": "problems/0261-gaussian-naive-bayes-classifier",
+      "first_solved_at": "2026-06-02T11:25:08.142Z",
+      "last_pushed_at": "2026-06-02T11:25:08.142Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:343": {
+      "kind": "problem",
+      "id": "343",
+      "title": "Implement Random Forest Feature Importance",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/343",
+      "path": "problems/0343-implement-random-forest-feature-importance",
+      "first_solved_at": "2026-06-02T13:07:44.666Z",
+      "last_pushed_at": "2026-06-02T13:07:44.666Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
