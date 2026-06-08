@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:03:44.813Z",
+  "generated_at": "2026-09-18T15:03:46.487Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -2041,6 +2041,19 @@
       "last_pushed_at": "2026-06-07T16:36:32.881Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:929": {
+      "kind": "problem",
+      "id": "929",
+      "title": "Tinygrad: Implement LayerNorm from Scratch",
+      "difficulty": "easy",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/929",
+      "path": "problems/0929-tinygrad-implement-layernorm-from-scratch",
+      "first_solved_at": "2026-06-08T16:20:45.340Z",
+      "last_pushed_at": "2026-06-08T16:20:45.340Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
