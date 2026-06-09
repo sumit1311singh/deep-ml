@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**158** solved · 152 problems · 6 labs · 0 math
+**159** solved · 153 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Hardtanh Activation Function](https://www.deep-ml.com/problems/266) | easy | 2026-06-05 | [solution](problems/0266-implement-the-hardtanh-activation-function) |
 | [Implement the Mish Activation Function](https://www.deep-ml.com/problems/262) | easy | 2026-06-03 | [solution](problems/0262-implement-the-mish-activation-function) |
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-05-06 | [solution](problems/0103-implement-the-selu-activation-function) |
+| [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-06-09 | [solution](problems/0099-implement-the-softplus-activation-function) |
 | [Implement the Square ReLU Activation Function](https://www.deep-ml.com/problems/373) | easy | 2026-06-04 | [solution](problems/0373-implement-the-square-relu-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-05-04 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-04-19 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
