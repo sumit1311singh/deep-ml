@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**161** solved · 155 problems · 6 labs · 0 math
+**162** solved · 156 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Square ReLU Activation Function](https://www.deep-ml.com/problems/373) | easy | 2026-06-04 | [solution](problems/0373-implement-the-square-relu-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-06-10 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-05-04 | [solution](problems/0264-implement-the-tanh-activation-function) |
+| [Implement Triplet Loss](https://www.deep-ml.com/problems/916) | easy | 2026-06-12 | [solution](problems/0916-implement-triplet-loss) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-04-19 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/369) | easy | 2026-04-28 | [solution](problems/0369-implement-xavier-glorot-weight-initialization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-04-05 | [solution](problems/0039-implementation-of-log-softmax-function) |
