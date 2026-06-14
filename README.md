@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**163** solved · 157 problems · 6 labs · 0 math
+**164** solved · 158 problems · 6 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-04-04 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-04-20 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-04-06 | [solution](problems/0097-implement-the-elu-activation-function) |
+| [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-06-14 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implement the Hardtanh Activation Function](https://www.deep-ml.com/problems/266) | easy | 2026-06-05 | [solution](problems/0266-implement-the-hardtanh-activation-function) |
 | [Implement the Mish Activation Function](https://www.deep-ml.com/problems/262) | easy | 2026-06-03 | [solution](problems/0262-implement-the-mish-activation-function) |
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-05-06 | [solution](problems/0103-implement-the-selu-activation-function) |
