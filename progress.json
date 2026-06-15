@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:19.349Z",
+  "generated_at": "2026-09-18T15:04:21.130Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -2132,6 +2132,19 @@
       "last_pushed_at": "2026-06-14T17:49:18.517Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:156": {
+      "kind": "problem",
+      "id": "156",
+      "title": "Implement SwiGLU activation function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/156",
+      "path": "problems/0156-implement-swiglu-activation-function",
+      "first_solved_at": "2026-06-15T17:24:39.637Z",
+      "last_pushed_at": "2026-06-15T17:24:39.637Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
