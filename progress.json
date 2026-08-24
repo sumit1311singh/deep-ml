@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:28.697Z",
+  "generated_at": "2026-09-18T15:04:30.734Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -2633,6 +2633,56 @@
       "last_pushed_at": "2026-08-23T22:00:12.214Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-08-24T01:44:59.740Z",
+      "last_pushed_at": "2026-08-24T01:44:59.740Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:1022": {
+      "kind": "problem",
+      "id": "1022",
+      "title": "L2 Normalization Along an Axis",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1022",
+      "path": "problems/1022-l2-normalization-along-an-axis",
+      "first_solved_at": "2026-08-24T01:51:07.496Z",
+      "last_pushed_at": "2026-08-24T01:51:07.496Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:1072": {
+      "kind": "problem",
+      "id": "1072",
+      "title": "Pairwise Cosine Similarity Matrix",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1072",
+      "path": "problems/1072-pairwise-cosine-similarity-matrix",
+      "first_solved_at": "2026-08-24T02:05:33.890Z",
+      "last_pushed_at": "2026-08-24T02:05:33.890Z",
+      "language": "python",
+      "lines": 9
+    },
+    "math:46": {
+      "kind": "math",
+      "id": "46",
+      "title": "The Four Fundamental Subspaces",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/46",
+      "path": "math/0046-the-four-fundamental-subspaces",
+      "first_solved_at": "2026-08-24T02:10:36.752Z",
+      "last_pushed_at": "2026-08-24T02:10:36.752Z"
     }
   }
 }
