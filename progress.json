@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:30.734Z",
+  "generated_at": "2026-09-18T15:04:32.723Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -2683,6 +2683,19 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-08-24T02:10:36.752Z",
       "last_pushed_at": "2026-08-24T02:10:36.752Z"
+    },
+    "problem:332": {
+      "kind": "problem",
+      "id": "332",
+      "title": "Check if Matrix is Positive Definite",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/332",
+      "path": "problems/0332-check-if-matrix-is-positive-definite",
+      "first_solved_at": "2026-08-25T02:16:39.040Z",
+      "last_pushed_at": "2026-08-25T02:16:39.040Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
