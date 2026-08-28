@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:36.434Z",
+  "generated_at": "2026-09-18T15:04:38.322Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -2720,6 +2720,17 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-08-27T03:18:10.513Z",
       "last_pushed_at": "2026-08-27T03:18:10.513Z"
+    },
+    "math:47": {
+      "kind": "math",
+      "id": "47",
+      "title": "Gram–Schmidt and Orthonormal Bases",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/47",
+      "path": "math/0047-gram-schmidt-and-orthonormal-bases",
+      "first_solved_at": "2026-08-28T02:01:48.884Z",
+      "last_pushed_at": "2026-08-28T02:01:48.884Z"
     }
   }
 }
