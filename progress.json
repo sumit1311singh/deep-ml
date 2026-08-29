@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:38.322Z",
+  "generated_at": "2026-09-18T15:04:40.031Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -2731,6 +2731,91 @@
       "path": "math/0047-gram-schmidt-and-orthonormal-bases",
       "first_solved_at": "2026-08-28T02:01:48.884Z",
       "last_pushed_at": "2026-08-28T02:01:48.884Z"
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-08-29T20:14:48.636Z",
+      "last_pushed_at": "2026-08-29T20:14:48.636Z",
+      "language": "python",
+      "lines": 18
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-08-29T20:17:52.435Z",
+      "last_pushed_at": "2026-08-29T20:17:52.435Z"
+    },
+    "math:26": {
+      "kind": "math",
+      "id": "26",
+      "title": "Maximum Likelihood and MAP",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/26",
+      "path": "math/0026-maximum-likelihood-and-map",
+      "first_solved_at": "2026-08-29T20:21:16.696Z",
+      "last_pushed_at": "2026-08-29T20:21:16.696Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-08-29T20:42:35.610Z",
+      "last_pushed_at": "2026-08-29T20:42:35.610Z"
+    },
+    "problem:136": {
+      "kind": "problem",
+      "id": "136",
+      "title": "Calculate KL Divergence Between Two Multivariate Gaussian Distributions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/136",
+      "path": "problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions",
+      "first_solved_at": "2026-08-29T21:22:42.964Z",
+      "last_pushed_at": "2026-08-29T21:22:42.964Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:337": {
+      "kind": "problem",
+      "id": "337",
+      "title": "Maximum Likelihood Estimation for Gaussian Distribution",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/337",
+      "path": "problems/0337-maximum-likelihood-estimation-for-gaussian-distribution",
+      "first_solved_at": "2026-08-29T21:37:22.191Z",
+      "last_pushed_at": "2026-08-29T21:37:22.191Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:338": {
+      "kind": "problem",
+      "id": "338",
+      "title": "Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/338",
+      "path": "problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter",
+      "first_solved_at": "2026-08-29T21:59:08.655Z",
+      "last_pushed_at": "2026-08-29T21:59:08.655Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
