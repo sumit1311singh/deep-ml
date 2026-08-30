@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**222** solved · 181 problems · 6 labs · 35 math
+**230** solved · 188 problems · 6 labs · 36 math
 
 ![Coverage](./coverage.svg)
 
@@ -116,6 +116,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-08-24 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-05-12 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-04-05 | [solution](problems/0029-random-shuffle-of-dataset) |
+| [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-08-30 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-05-27 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape and Transpose a Tinygrad Tensor](https://www.deep-ml.com/problems/890) | easy | 2026-05-27 | [solution](problems/0890-reshape-and-transpose-a-tinygrad-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-03-17 | [solution](problems/0003-reshape-matrix) |
@@ -141,16 +142,20 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-08-25 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-08-26 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-04-07 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-08-30 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-08-23 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-05-05 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-04-21 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-04-09 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-04-09 | [solution](problems/0219-derivative-of-softmax) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-04-24 | [solution](problems/0151-dropout-layer) |
+| [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-08-30 | [solution](problems/0847-dummy-classifier-baseline) |
+| [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-08-30 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-05-23 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-04-14 | [solution](problems/0205-entropy-cross-entropy) |
 | [Epsilon-Insensitive Loss for SVM Regression](https://www.deep-ml.com/problems/813) | medium | 2026-05-23 | [solution](problems/0813-epsilon-insensitive-loss-for-svm-regression) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-05-31 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
+| [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-08-30 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-08-22 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-06-02 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-05-20 | [solution](problems/0197-gradient-clipping-by-global-norm) |
@@ -167,6 +172,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-05-14 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-04-25 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-06-02 | [solution](problems/0343-implement-random-forest-feature-importance) |
+| [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-08-30 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-03-24 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-06-01 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-05-18 | [solution](problems/0192-implement-the-huber-loss-function) |
@@ -189,6 +195,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-05-11 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-03-29 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-03-28 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-08-30 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-05-23 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-04-21 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-05-31 | [solution](problems/0020-decision-tree-learning) |
@@ -213,6 +220,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-08-22 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-08-21 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-08-21 | [solution](math/0009-matrix-basics) |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-30 | [solution](math/0030-ml-workflow-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-08-22 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-21 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-08-22 | [solution](math/0004-backpropagation-and-the-chain-rule) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:40.031Z",
+  "generated_at": "2026-09-18T15:04:41.769Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -2816,6 +2816,108 @@
       "last_pushed_at": "2026-08-29T21:59:08.655Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:330": {
+      "kind": "problem",
+      "id": "330",
+      "title": "Compute the Null Space (Kernel) of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/330",
+      "path": "problems/0330-compute-the-null-space-kernel-of-a-matrix",
+      "first_solved_at": "2026-08-30T00:37:17.250Z",
+      "last_pushed_at": "2026-08-30T00:37:17.250Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:68": {
+      "kind": "problem",
+      "id": "68",
+      "title": "Find the column space of a matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/68",
+      "path": "problems/0068-find-the-column-space-of-a-matrix",
+      "first_solved_at": "2026-08-30T01:20:20.876Z",
+      "last_pushed_at": "2026-08-30T01:20:20.876Z",
+      "language": "python",
+      "lines": 39
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-08-30T22:20:47.573Z",
+      "last_pushed_at": "2026-08-30T22:20:47.573Z"
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2026-08-30T22:27:50.000Z",
+      "last_pushed_at": "2026-08-30T22:27:50.000Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-08-30T22:48:52.143Z",
+      "last_pushed_at": "2026-08-30T22:48:52.143Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-08-30T23:01:49.438Z",
+      "last_pushed_at": "2026-08-30T23:01:49.438Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:847": {
+      "kind": "problem",
+      "id": "847",
+      "title": "Dummy Classifier Baseline",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/847",
+      "path": "problems/0847-dummy-classifier-baseline",
+      "first_solved_at": "2026-08-30T23:32:43.619Z",
+      "last_pushed_at": "2026-08-30T23:32:43.619Z",
+      "language": "python",
+      "lines": 68
+    },
+    "problem:848": {
+      "kind": "problem",
+      "id": "848",
+      "title": "Dummy Regressor Baseline",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/848",
+      "path": "problems/0848-dummy-regressor-baseline",
+      "first_solved_at": "2026-08-30T23:50:27.247Z",
+      "last_pushed_at": "2026-08-30T23:50:27.247Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
