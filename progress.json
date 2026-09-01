@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:43.812Z",
+  "generated_at": "2026-09-18T15:04:45.542Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -2929,6 +2929,32 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-08-31T00:01:10.883Z",
       "last_pushed_at": "2026-08-31T00:01:10.883Z"
+    },
+    "problem:849": {
+      "kind": "problem",
+      "id": "849",
+      "title": "Precision and Recall at Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/849",
+      "path": "problems/0849-precision-and-recall-at-threshold",
+      "first_solved_at": "2026-09-01T02:41:26.041Z",
+      "last_pushed_at": "2026-09-01T02:41:26.041Z",
+      "language": "python",
+      "lines": 44
+    },
+    "lab:3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1": {
+      "kind": "lab",
+      "id": "3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1",
+      "title": "Split the Data Honestly and Beat a Baseline",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1",
+      "path": "labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1-split-the-data-honestly-and-beat-a-baseline",
+      "first_solved_at": "2026-09-01T22:35:41.288Z",
+      "last_pushed_at": "2026-09-01T22:35:41.288Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
