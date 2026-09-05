@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:47.443Z",
+  "generated_at": "2026-09-18T15:04:49.380Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -2968,6 +2968,67 @@
       "last_pushed_at": "2026-09-02T17:51:16.376Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2026-09-05T02:02:06.910Z",
+      "last_pushed_at": "2026-09-05T02:02:06.910Z",
+      "language": "python",
+      "lines": 34
+    },
+    "math:39": {
+      "kind": "math",
+      "id": "39",
+      "title": "Bias–Variance Decomposition",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/39",
+      "path": "math/0039-bias-variance-decomposition",
+      "first_solved_at": "2026-09-05T15:33:45.764Z",
+      "last_pushed_at": "2026-09-05T15:33:45.764Z"
+    },
+    "problem:801": {
+      "kind": "problem",
+      "id": "801",
+      "title": "Polynomial Regression Fit",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/801",
+      "path": "problems/0801-polynomial-regression-fit",
+      "first_solved_at": "2026-09-05T20:12:00.511Z",
+      "last_pushed_at": "2026-09-05T20:12:00.511Z",
+      "language": "python",
+      "lines": 27
+    },
+    "math:43": {
+      "kind": "math",
+      "id": "43",
+      "title": "Model Selection: CV, AIC, and BIC",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/43",
+      "path": "math/0043-model-selection-cv-aic-and-bic",
+      "first_solved_at": "2026-09-05T20:19:04.063Z",
+      "last_pushed_at": "2026-09-05T20:19:04.063Z"
+    },
+    "problem:173": {
+      "kind": "problem",
+      "id": "173",
+      "title": "Implement K-Nearest Neighbors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/173",
+      "path": "problems/0173-implement-k-nearest-neighbors",
+      "first_solved_at": "2026-09-05T23:18:04.249Z",
+      "last_pushed_at": "2026-09-05T23:18:04.249Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
