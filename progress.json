@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:53.783Z",
+  "generated_at": "2026-09-18T15:04:55.635Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3094,6 +3094,84 @@
       "last_pushed_at": "2026-09-07T00:07:28.241Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:1224": {
+      "kind": "problem",
+      "id": "1224",
+      "title": "Single Linear Neuron Forward",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1224",
+      "path": "problems/1224-single-linear-neuron-forward",
+      "first_solved_at": "2026-09-13T15:05:13.468Z",
+      "last_pushed_at": "2026-09-13T15:05:13.468Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:1225": {
+      "kind": "problem",
+      "id": "1225",
+      "title": "Two-Layer MLP Forward Pass",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1225",
+      "path": "problems/1225-two-layer-mlp-forward-pass",
+      "first_solved_at": "2026-09-13T15:23:45.876Z",
+      "last_pushed_at": "2026-09-13T15:23:45.876Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:1226": {
+      "kind": "problem",
+      "id": "1226",
+      "title": "Implement ReLU and Leaky ReLU",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1226",
+      "path": "problems/1226-implement-relu-and-leaky-relu",
+      "first_solved_at": "2026-09-13T15:31:40.731Z",
+      "last_pushed_at": "2026-09-13T15:31:40.731Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-09-13T15:46:19.280Z",
+      "last_pushed_at": "2026-09-13T15:46:19.280Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-09-13T16:04:54.829Z",
+      "last_pushed_at": "2026-09-13T16:04:54.829Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:1229": {
+      "kind": "problem",
+      "id": "1229",
+      "title": "Binary Cross-Entropy from Logits",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1229",
+      "path": "problems/1229-binary-cross-entropy-from-logits",
+      "first_solved_at": "2026-09-13T16:20:28.239Z",
+      "last_pushed_at": "2026-09-13T16:20:28.239Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
