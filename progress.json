@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:55.635Z",
+  "generated_at": "2026-09-18T15:04:57.696Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3172,6 +3172,97 @@
       "last_pushed_at": "2026-09-13T16:20:28.239Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2026-09-14T13:03:10.598Z",
+      "last_pushed_at": "2026-09-14T13:03:10.598Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:169": {
+      "kind": "problem",
+      "id": "169",
+      "title": "Implement AdamW Optimizer Step",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/169",
+      "path": "problems/0169-implement-adamw-optimizer-step",
+      "first_solved_at": "2026-09-14T13:14:24.390Z",
+      "last_pushed_at": "2026-09-14T13:14:24.390Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:1219": {
+      "kind": "problem",
+      "id": "1219",
+      "title": "One Training Step",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1219",
+      "path": "problems/1219-one-training-step",
+      "first_solved_at": "2026-09-14T13:42:37.280Z",
+      "last_pushed_at": "2026-09-14T13:42:37.280Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:1234": {
+      "kind": "problem",
+      "id": "1234",
+      "title": "One SGD Update Step",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1234",
+      "path": "problems/1234-one-sgd-update-step",
+      "first_solved_at": "2026-09-14T15:00:28.169Z",
+      "last_pushed_at": "2026-09-14T15:00:28.169Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:1235": {
+      "kind": "problem",
+      "id": "1235",
+      "title": "SGD with Momentum Step",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1235",
+      "path": "problems/1235-sgd-with-momentum-step",
+      "first_solved_at": "2026-09-14T15:07:25.660Z",
+      "last_pushed_at": "2026-09-14T15:07:25.660Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:1236": {
+      "kind": "problem",
+      "id": "1236",
+      "title": "One Adam Update Step",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1236",
+      "path": "problems/1236-one-adam-update-step",
+      "first_solved_at": "2026-09-14T15:16:05.923Z",
+      "last_pushed_at": "2026-09-14T15:16:05.923Z",
+      "language": "python",
+      "lines": 29
+    },
+    "lab:8": {
+      "kind": "lab",
+      "id": "8",
+      "title": "Design Your Own Optimizer (NumPy)",
+      "difficulty": "medium",
+      "category": "Optimizers",
+      "url": "https://www.deep-ml.com/labs/8",
+      "path": "labs/0008-design-your-own-optimizer-numpy",
+      "first_solved_at": "2026-09-14T18:02:52.765Z",
+      "last_pushed_at": "2026-09-14T18:02:52.765Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }

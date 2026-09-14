@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**250** solved · 202 problems · 9 labs · 39 math
+**257** solved · 208 problems · 10 labs · 39 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,6 +115,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-04-26 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-04-18 | [solution](problems/0146-momentum-optimizer) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-04-18 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
+| [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-09-14 | [solution](problems/1234-one-sgd-update-step) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-04-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-08-24 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-05-12 | [solution](problems/0081-poisson-distribution-probability-calculator) |
@@ -137,6 +138,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-03-17 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-06-13 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-04-06 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-14 | [solution](problems/0087-adam-optimizer) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-09-06 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-09-13 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-05-12 | [solution](problems/0079-binomial-distribution-probability) |
@@ -167,6 +169,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-06-02 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-05-20 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-04-23 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-09-14 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-24 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-05-30 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement Cosine Annealing with Warm Restarts](https://www.deep-ml.com/problems/392) | medium | 2026-04-22 | [solution](problems/0392-implement-cosine-annealing-with-warm-restarts) |
@@ -197,6 +200,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-05-12 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-04-13 | [solution](problems/0313-numerical-gradient-checking) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-13 | [solution](problems/1227-numerically-stable-softmax) |
+| [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-09-14 | [solution](problems/1236-one-adam-update-step) |
+| [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-14 | [solution](problems/1219-one-training-step) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-05-03 | [solution](problems/0190-overlapping-max-pooling) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-03-26 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-05 | [solution](problems/0801-polynomial-regression-fit) |
@@ -204,6 +209,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-05-28 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-03-25 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-03-25 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-09-14 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-05-11 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-03-29 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-03-28 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
@@ -226,6 +232,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-05-26 | [solution](labs/0023-train-a-binary-classifier) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-05-26 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-09-02 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
+| [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-14 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-07 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-09-18 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 
