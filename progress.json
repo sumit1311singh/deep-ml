@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-18T14:46:10.145Z",
+  "items": {
+    "lab:12": {
+      "kind": "lab",
+      "id": "12",
+      "title": "PyTorch: Implement Your Own Gradient Descent Training Step",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/12",
+      "path": "labs/0012-pytorch-implement-your-own-gradient-descent-training-step",
+      "first_solved_at": "2026-09-18T14:46:06.818Z",
+      "last_pushed_at": "2026-09-18T14:46:06.818Z",
+      "language": "python",
+      "lines": 62
+    }
+  }
+}
