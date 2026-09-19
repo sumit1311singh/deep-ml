@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:15:37.536Z",
+  "generated_at": "2026-09-19T19:26:49.473Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3298,6 +3298,19 @@
       "path": "math/0042-margins-and-soft-margin-svms",
       "first_solved_at": "2026-09-19T19:15:36.338Z",
       "last_pushed_at": "2026-09-19T19:15:36.338Z"
+    },
+    "lab:24": {
+      "kind": "lab",
+      "id": "24",
+      "title": "Design Your Own Normalization Layer",
+      "difficulty": "easy",
+      "category": "Normalization",
+      "url": "https://www.deep-ml.com/labs/24",
+      "path": "labs/0024-design-your-own-normalization-layer",
+      "first_solved_at": "2026-09-19T19:26:48.242Z",
+      "last_pushed_at": "2026-09-19T19:26:48.242Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
