@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:04:59.561Z",
+  "generated_at": "2026-09-19T19:09:05.867Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3274,6 +3274,19 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-18T15:04:59.560Z",
       "last_pushed_at": "2026-09-18T15:04:59.560Z"
+    },
+    "problem:140": {
+      "kind": "problem",
+      "id": "140",
+      "title": "Bernoulli Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/140",
+      "path": "problems/0140-bernoulli-naive-bayes-classifier",
+      "first_solved_at": "2026-09-19T19:09:04.345Z",
+      "last_pushed_at": "2026-09-19T19:09:04.345Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
