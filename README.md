@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**263** solved · 211 problems · 11 labs · 41 math
+**264** solved · 211 problems · 12 labs · 41 math
 
 ![Coverage](./coverage.svg)
 
@@ -230,6 +230,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-05-16 | [solution](labs/0009-design-your-own-activation-function) |
 | [Design Your Own Normalization Layer](https://www.deep-ml.com/labs/24) | easy | 2026-09-19 | [solution](labs/0024-design-your-own-normalization-layer) |
+| [Fix Overfitting with Regularization (Sklearn)](https://www.deep-ml.com/labs/22) | easy | 2026-09-20 | [solution](labs/0022-fix-overfitting-with-regularization-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-09-18 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/17) | easy | 2026-05-16 | [solution](labs/0017-pytorch-build-a-complete-training-loop) |
 | [Split the Data Honestly and Beat a Baseline](https://www.deep-ml.com/labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1) | easy | 2026-09-01 | [solution](labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1-split-the-data-honestly-and-beat-a-baseline) |
