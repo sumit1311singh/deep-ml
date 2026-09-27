@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**267** solved · 212 problems · 14 labs · 41 math
+**268** solved · 213 problems · 14 labs · 41 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Add a Bias Vector to a Batch with Tinygrad Broadcasting](https://www.deep-ml.com/problems/891) | easy | 2026-05-27 | [solution](problems/0891-add-a-bias-vector-to-a-batch-with-tinygrad-broadcasting) |
 | [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-05-09 | [solution](problems/0239-apply-zero-padding-to-an-image) |
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-05-27 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
+| [Batch a TensorDataset with DataLoader](https://www.deep-ml.com/problems/1237) | easy | 2026-09-27 | [solution](problems/1237-batch-a-tensordataset-with-dataloader) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-04-05 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-04-26 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Build a Dataset and Use It with a DataLoader](https://www.deep-ml.com/problems/899) | easy | 2026-09-27 | [solution](problems/0899-build-a-dataset-and-use-it-with-a-dataloader) |
