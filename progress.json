@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:29:11.480Z",
+  "generated_at": "2026-10-05T23:52:20.794Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3439,6 +3439,19 @@
       "path": "problems/1230-dropout-in-train-vs-eval-mode",
       "first_solved_at": "2026-10-05T23:29:10.661Z",
       "last_pushed_at": "2026-10-05T23:29:10.661Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:199": {
+      "kind": "problem",
+      "id": "199",
+      "title": "Early Stopping Based on Validation Loss Plateau",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/199",
+      "path": "problems/0199-early-stopping-based-on-validation-loss-plateau",
+      "first_solved_at": "2026-10-05T23:52:17.920Z",
+      "last_pushed_at": "2026-10-05T23:52:17.920Z",
       "language": "python",
       "lines": 30
     }
