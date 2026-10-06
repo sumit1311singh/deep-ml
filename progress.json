@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:17:16.870Z",
+  "generated_at": "2026-10-06T22:36:57.287Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3467,6 +3467,19 @@
       "last_pushed_at": "2026-10-06T22:17:16.137Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:912": {
+      "kind": "problem",
+      "id": "912",
+      "title": "Gradient Accumulation Over Micro-Batches",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/912",
+      "path": "problems/0912-gradient-accumulation-over-micro-batches",
+      "first_solved_at": "2026-10-06T22:36:54.733Z",
+      "last_pushed_at": "2026-10-06T22:36:54.733Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**273** solved · 218 problems · 14 labs · 41 math
+**274** solved · 219 problems · 14 labs · 41 math
 
 ![Coverage](./coverage.svg)
 
@@ -173,6 +173,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-08-30 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-08-22 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-06-02 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
+| [Gradient Accumulation Over Micro-Batches](https://www.deep-ml.com/problems/912) | medium | 2026-10-06 | [solution](problems/0912-gradient-accumulation-over-micro-batches) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-05-20 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-10-05 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-04-23 | [solution](problems/0049-implement-adam-optimization-algorithm) |
