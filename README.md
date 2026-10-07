@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**275** solved · 220 problems · 14 labs · 41 math
+**276** solved · 220 problems · 15 labs · 41 math
 
 ![Coverage](./coverage.svg)
 
@@ -249,6 +249,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-09-02 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-14 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-07 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
+| [MLP with Dropout and BatchNorm](https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b) | medium | 2026-10-07 | [solution](labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-09-18 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-09-27 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
