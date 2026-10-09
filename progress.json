@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:36:08.286Z",
+  "generated_at": "2026-10-09T12:51:24.867Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3530,6 +3530,19 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-10-09T12:36:05.883Z",
       "last_pushed_at": "2026-10-09T12:36:05.883Z"
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2026-10-09T12:51:22.792Z",
+      "last_pushed_at": "2026-10-09T12:51:22.792Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
