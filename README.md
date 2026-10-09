@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**281** solved · 224 problems · 15 labs · 42 math
+**282** solved · 225 problems · 15 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -144,6 +144,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-06-13 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-04-06 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-14 | [solution](problems/0087-adam-optimizer) |
+| [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-09 | [solution](problems/1233-apply-a-2d-convolution) |
 | [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-10-06 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-09-19 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-09-06 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
