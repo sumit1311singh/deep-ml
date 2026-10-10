@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**283** solved · 225 problems · 16 labs · 42 math
+**284** solved · 226 problems · 16 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -185,6 +185,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-09-14 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-24 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-05-30 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
+| [Implement Conv2d with `unfold`](https://www.deep-ml.com/problems/900) | medium | 2026-10-10 | [solution](problems/0900-implement-conv2d-with-unfold) |
 | [Implement Cosine Annealing with Warm Restarts](https://www.deep-ml.com/problems/392) | medium | 2026-04-22 | [solution](problems/0392-implement-cosine-annealing-with-warm-restarts) |
 | [Implement Focal Loss for Imbalanced Classification](https://www.deep-ml.com/problems/255) | medium | 2026-04-19 | [solution](problems/0255-implement-focal-loss-for-imbalanced-classification) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-04-15 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
