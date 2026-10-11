@@ -23,9 +23,10 @@ class LSTM:
 		"""
 		Processes a sequence of inputs and returns the hidden states, final hidden state, and final cell state.
 		"""
-		ht = []
+		hidden_states = []
 		current_hidden_state = initial_hidden_state
 		current_cell_state = initial_cell_state
+
 		for t in range(len(x)):
 			xt = np.expand_dims(x[t], axis=1)
 			zt = np.concatenate([current_hidden_state, xt], axis=0)
@@ -38,9 +39,9 @@ class LSTM:
 			current_cell_state = ft * current_cell_state + it * cct
 			current_hidden_state = ot * np.tanh(current_cell_state)
 
-			ht.append(current_hidden_state)
+			hidden_states.append(current_hidden_state)
 
-		return np.array(ht), current_hidden_state, current_cell_state
+		return np.array(hidden_states), current_hidden_state, current_cell_state
 
 
 
