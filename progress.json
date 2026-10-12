@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:58:50.991Z",
+  "generated_at": "2026-10-12T17:00:54.219Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3706,6 +3706,17 @@
       "path": "math/0132-adam-bias-correction",
       "first_solved_at": "2026-10-12T16:58:51.388Z",
       "last_pushed_at": "2026-10-12T16:58:51.388Z"
+    },
+    "math:133": {
+      "kind": "math",
+      "id": "133",
+      "title": "Attention as a Soft Dictionary Lookup",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/133",
+      "path": "math/0133-attention-as-a-soft-dictionary-lookup",
+      "first_solved_at": "2026-10-12T17:00:54.630Z",
+      "last_pushed_at": "2026-10-12T17:00:54.630Z"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**292** solved · 230 problems · 17 labs · 45 math
+**293** solved · 230 problems · 17 labs · 46 math
 
 ![Coverage](./coverage.svg)
 
@@ -269,6 +269,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-10-12 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-18 | [solution](math/0001-derivatives-and-gradients) |
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-08-21 | [solution](math/0018-descriptive-statistics) |
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-08-22 | [solution](math/0033-expectation-and-variance-algebra) |
