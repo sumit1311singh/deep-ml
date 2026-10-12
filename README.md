@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**290** solved · 230 problems · 17 labs · 43 math
+**291** solved · 230 problems · 17 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -307,6 +307,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-08-23 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-08-24 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-10-09 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
+| [Variance Preservation and He/Glorot Scaling](https://www.deep-ml.com/math-problems/131) | medium | 2026-10-12 | [solution](math/0131-variance-preservation-and-he-glorot-scaling) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-08-21 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-08-23 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-08-29 | [solution](math/0025-kl-divergence) |
