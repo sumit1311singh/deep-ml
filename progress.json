@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:50:48.173Z",
+  "generated_at": "2026-10-12T16:58:50.991Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3695,6 +3695,17 @@
       "path": "math/0131-variance-preservation-and-he-glorot-scaling",
       "first_solved_at": "2026-10-12T16:50:48.603Z",
       "last_pushed_at": "2026-10-12T16:50:48.603Z"
+    },
+    "math:132": {
+      "kind": "math",
+      "id": "132",
+      "title": "Adam Bias Correction",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/132",
+      "path": "math/0132-adam-bias-correction",
+      "first_solved_at": "2026-10-12T16:58:51.388Z",
+      "last_pushed_at": "2026-10-12T16:58:51.388Z"
     }
   }
 }
