@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:29:04.810Z",
+  "generated_at": "2026-10-13T14:21:09.938Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3730,6 +3730,17 @@
       "last_pushed_at": "2026-10-13T13:29:04.095Z",
       "language": "python",
       "lines": 88
+    },
+    "math:134": {
+      "kind": "math",
+      "id": "134",
+      "title": "Scaled Dot-Product Variance: Why Divide by the Square Root of d",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/134",
+      "path": "math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d",
+      "first_solved_at": "2026-10-13T14:21:08.751Z",
+      "last_pushed_at": "2026-10-13T14:21:08.751Z"
     }
   }
 }
