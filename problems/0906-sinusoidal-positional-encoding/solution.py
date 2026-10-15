@@ -6,7 +6,7 @@ def sinusoidal_positional_encoding(seq_len: int, d_model: int) -> torch.Tensor:
     position = torch.arange(seq_len, dtype=torch.float32).unsqueeze(1)
     div_term = torch.arange(d_model // 2, dtype=torch.float32)
 
-    exp_div_term = torch.exp(-math.log(10000.0) * 2 * div_term / d_model)
+    exp_div_term = torch.exp(-torch.log(torch.tensor(10000.0)) * 2 * div_term / d_model)
 
     angles = position * exp_div_term
 
