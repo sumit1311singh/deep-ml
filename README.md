@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**298** solved · 232 problems · 19 labs · 47 math
+**299** solved · 233 problems · 19 labs · 47 math
 
 ![Coverage](./coverage.svg)
 
@@ -199,6 +199,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-05-14 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-04-25 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-10-11 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-15 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-06-02 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-08-30 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-03-24 | [solution](problems/0200-implement-rmsprop-optimizer) |
