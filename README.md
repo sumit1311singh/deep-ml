@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**297** solved · 231 problems · 19 labs · 47 math
+**298** solved · 232 problems · 19 labs · 47 math
 
 ![Coverage](./coverage.svg)
 
@@ -202,6 +202,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-06-02 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-08-30 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-03-24 | [solution](problems/0200-implement-rmsprop-optimizer) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-15 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-06-01 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-09-20 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-05-18 | [solution](problems/0192-implement-the-huber-loss-function) |
