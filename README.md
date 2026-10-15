@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**300** solved · 234 problems · 19 labs · 47 math
+**301** solved · 235 problems · 19 labs · 47 math
 
 ![Coverage](./coverage.svg)
 
@@ -136,6 +136,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-03-19 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-09-13 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-03-23 | [solution](problems/0024-single-neuron) |
+| [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-10-15 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-03-19 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-04-21 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Tinygrad: Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/929) | easy | 2026-06-08 | [solution](problems/0929-tinygrad-implement-layernorm-from-scratch) |
