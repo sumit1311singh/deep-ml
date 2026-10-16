@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:50:25.919Z",
+  "generated_at": "2026-10-16T20:09:06.720Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3830,6 +3830,19 @@
       "path": "problems/0904-implement-multi-head-self-attention",
       "first_solved_at": "2026-10-16T19:50:25.656Z",
       "last_pushed_at": "2026-10-16T19:50:25.656Z",
+      "language": "python",
+      "lines": 47
+    },
+    "problem:227": {
+      "kind": "problem",
+      "id": "227",
+      "title": "Knowledge Distillation Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/227",
+      "path": "problems/0227-knowledge-distillation-loss",
+      "first_solved_at": "2026-10-16T20:09:06.617Z",
+      "last_pushed_at": "2026-10-16T20:09:06.617Z",
       "language": "python",
       "lines": 47
     }
