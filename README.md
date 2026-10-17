@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**305** solved · 238 problems · 20 labs · 47 math
+**306** solved · 239 problems · 20 labs · 47 math
 
 ![Coverage](./coverage.svg)
 
@@ -171,6 +171,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-08-30 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-08-30 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-05-23 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
+| [Encoder-Decoder Cross-Attention](https://www.deep-ml.com/problems/1531) | medium | 2026-10-17 | [solution](problems/1531-encoder-decoder-cross-attention) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-04-14 | [solution](problems/0205-entropy-cross-entropy) |
 | [Epsilon-Insensitive Loss for SVM Regression](https://www.deep-ml.com/problems/813) | medium | 2026-05-23 | [solution](problems/0813-epsilon-insensitive-loss-for-svm-regression) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-05-31 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
