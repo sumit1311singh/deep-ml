@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:09:06.720Z",
+  "generated_at": "2026-10-17T18:06:42.720Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3845,6 +3845,19 @@
       "last_pushed_at": "2026-10-16T20:09:06.617Z",
       "language": "python",
       "lines": 47
+    },
+    "lab:10": {
+      "kind": "lab",
+      "id": "10",
+      "title": "Design Your Own Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Attention & Transformers",
+      "url": "https://www.deep-ml.com/labs/10",
+      "path": "labs/0010-design-your-own-attention-mechanism",
+      "first_solved_at": "2026-10-17T18:06:41.448Z",
+      "last_pushed_at": "2026-10-17T18:06:41.448Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
