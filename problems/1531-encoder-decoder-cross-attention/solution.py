@@ -31,6 +31,6 @@ def cross_attention(decoder_x, encoder_out, W_q, W_k, W_v, src_pad_mask=None):
 
     softmax_cross_attention_score = exp_cross_attention_score/np.sum(exp_cross_attention_score, axis=-1, keepdims=True)
 
-    return softmax_cross_attention_score @ V, softmax_cross_attention_score # (tgt_len, d_k)
+    return softmax_cross_attention_score @ V, softmax_cross_attention_score # (tgt_len, d_k), (tgt_len, src_len)
 
 
