@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**306** solved · 239 problems · 20 labs · 47 math
+**307** solved · 240 problems · 20 labs · 47 math
 
 ![Coverage](./coverage.svg)
 
@@ -188,6 +188,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-09-14 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement an LSTM Cell from Scratch](https://www.deep-ml.com/problems/907) | medium | 2026-10-11 | [solution](problems/0907-implement-an-lstm-cell-from-scratch) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-24 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
+| [Implement Batched Causal Self-Attention](https://www.deep-ml.com/problems/957) | medium | 2026-10-18 | [solution](problems/0957-implement-batched-causal-self-attention) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-05-30 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement Conv2d with `unfold`](https://www.deep-ml.com/problems/900) | medium | 2026-10-10 | [solution](problems/0900-implement-conv2d-with-unfold) |
 | [Implement Cosine Annealing with Warm Restarts](https://www.deep-ml.com/problems/392) | medium | 2026-04-22 | [solution](problems/0392-implement-cosine-annealing-with-warm-restarts) |
