@@ -12,8 +12,13 @@ def huber_loss(y_true, y_pred, delta=1.0):
 	Returns:
 		float: Average Huber loss
 	"""
+	# Your code here
 	y_true, y_pred = np.array(y_true), np.array(y_pred)
-	result = np.mean(np.where(abs(y_true-y_pred)<=delta, 
-					(1/2)*((y_true-y_pred)**2),
-					delta*(abs(y_true-y_pred) - (1/2)*delta)))
+	result = np.mean(
+		np.where(
+			abs(y_true-y_pred)<=delta, 
+			(1/2)*((y_true-y_pred)**2),
+			delta*(abs(y_true-y_pred) - (1/2)*delta)
+		)
+	)
 	return round(result, 4)

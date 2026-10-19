@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:09:01.033Z",
+  "generated_at": "2026-10-19T13:17:14.264Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -1414,9 +1414,9 @@
       "url": "https://www.deep-ml.com/problems/192",
       "path": "problems/0192-implement-the-huber-loss-function",
       "first_solved_at": "2026-05-18T04:46:42.992Z",
-      "last_pushed_at": "2026-05-18T04:46:42.992Z",
+      "last_pushed_at": "2026-10-19T13:17:12.769Z",
       "language": "python",
-      "lines": 19
+      "lines": 24
     },
     "problem:377": {
       "kind": "problem",
