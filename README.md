@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**307** solved · 240 problems · 20 labs · 47 math
+**308** solved · 241 problems · 20 labs · 47 math
 
 ![Coverage](./coverage.svg)
 
@@ -224,6 +224,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-08-29 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-08-29 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-05-23 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [Multi-Head Attention with Combined QKV Weight Matrix](https://www.deep-ml.com/problems/959) | medium | 2026-10-19 | [solution](problems/0959-multi-head-attention-with-combined-qkv-weight-matrix) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-05-12 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-04-13 | [solution](problems/0313-numerical-gradient-checking) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-06 | [solution](problems/0914-numerically-stable-cross-entropy) |
