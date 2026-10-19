@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**310** solved · 243 problems · 20 labs · 47 math
+**311** solved · 243 problems · 20 labs · 48 math
 
 ![Coverage](./coverage.svg)
 
@@ -302,6 +302,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-09-05 | [solution](math/0039-bias-variance-decomposition) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-08-22 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-08-22 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
+| [Convolution Arithmetic and Parameter Sharing](https://www.deep-ml.com/math-problems/116) | medium | 2026-10-19 | [solution](math/0116-convolution-arithmetic-and-parameter-sharing) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-08-22 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-22 | [solution](math/0011-determinants-and-trace) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-08-28 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
