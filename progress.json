@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:30:15.256Z",
+  "generated_at": "2026-10-20T20:29:34.874Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3947,6 +3947,19 @@
       "path": "math/0116-convolution-arithmetic-and-parameter-sharing",
       "first_solved_at": "2026-10-19T13:30:13.306Z",
       "last_pushed_at": "2026-10-19T13:30:13.306Z"
+    },
+    "problem:926": {
+      "kind": "problem",
+      "id": "926",
+      "title": "Tinygrad: Implement a Transformer Encoder Block",
+      "difficulty": "medium",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/926",
+      "path": "problems/0926-tinygrad-implement-a-transformer-encoder-block",
+      "first_solved_at": "2026-10-20T20:29:34.138Z",
+      "last_pushed_at": "2026-10-20T20:29:34.138Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }

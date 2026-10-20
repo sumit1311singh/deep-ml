@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**311** solved · 243 problems · 20 labs · 48 math
+**312** solved · 244 problems · 20 labs · 48 math
 
 ![Coverage](./coverage.svg)
 
@@ -246,6 +246,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-03-28 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-08-30 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-05-23 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
+| [Tinygrad: Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/926) | medium | 2026-10-20 | [solution](problems/0926-tinygrad-implement-a-transformer-encoder-block) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-13 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-04-21 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-05-31 | [solution](problems/0020-decision-tree-learning) |
