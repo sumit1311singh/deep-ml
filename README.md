@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**312** solved · 244 problems · 20 labs · 48 math
+**313** solved · 245 problems · 20 labs · 48 math
 
 ![Coverage](./coverage.svg)
 
@@ -134,6 +134,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-09-06 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-06-06 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-03-17 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-10-21 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-03-19 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-09-13 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-03-23 | [solution](problems/0024-single-neuron) |
