@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**314** solved · 246 problems · 20 labs · 48 math
+**315** solved · 246 problems · 21 labs · 48 math
 
 ![Coverage](./coverage.svg)
 
@@ -277,6 +277,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-14 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-07 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [MLP with Dropout and BatchNorm](https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b) | medium | 2026-10-07 | [solution](labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm) |
+| [MNIST: Design Your Own Pytorch Optimizer](https://www.deep-ml.com/labs/3) | medium | 2026-10-21 | [solution](labs/0003-mnist-design-your-own-pytorch-optimizer) |
 | [MNIST: Design-Your-Own tiny Pytorch Model](https://www.deep-ml.com/labs/2) | medium | 2026-10-09 | [solution](labs/0002-mnist-design-your-own-tiny-pytorch-model) |
 | [MNIST: Fix Very Deep Network Training](https://www.deep-ml.com/labs/7) | medium | 2026-10-12 | [solution](labs/0007-mnist-fix-very-deep-network-training) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-09-18 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
