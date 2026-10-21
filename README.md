@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**313** solved · 245 problems · 20 labs · 48 math
+**314** solved · 246 problems · 20 labs · 48 math
 
 ![Coverage](./coverage.svg)
 
@@ -179,6 +179,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Epsilon-Insensitive Loss for SVM Regression](https://www.deep-ml.com/problems/813) | medium | 2026-05-23 | [solution](problems/0813-epsilon-insensitive-loss-for-svm-regression) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-05-31 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-08-30 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [From Decoder to Encoder: Bidirectional Attention with Padding Masks](https://www.deep-ml.com/problems/1568) | medium | 2026-10-21 | [solution](problems/1568-from-decoder-to-encoder-bidirectional-attention-with-padding-masks) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-08-22 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-06-02 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Gradient Accumulation Over Micro-Batches](https://www.deep-ml.com/problems/912) | medium | 2026-10-06 | [solution](problems/0912-gradient-accumulation-over-micro-batches) |

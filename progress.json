@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:07:27.743Z",
+  "generated_at": "2026-10-21T12:26:57.554Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -3973,6 +3973,19 @@
       "last_pushed_at": "2026-10-21T12:07:26.167Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:1568": {
+      "kind": "problem",
+      "id": "1568",
+      "title": "From Decoder to Encoder: Bidirectional Attention with Padding Masks",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1568",
+      "path": "problems/1568-from-decoder-to-encoder-bidirectional-attention-with-padding-masks",
+      "first_solved_at": "2026-10-21T12:26:55.017Z",
+      "last_pushed_at": "2026-10-21T12:26:55.017Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
