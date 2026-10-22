@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**315** solved · 246 problems · 21 labs · 48 math
+**316** solved · 247 problems · 21 labs · 48 math
 
 ![Coverage](./coverage.svg)
 
@@ -221,6 +221,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-04-07 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-10-16 | [solution](problems/0227-knowledge-distillation-loss) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-06 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
+| [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-10-22 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-08-29 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-08-22 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-03-23 | [solution](problems/0009-matrix-times-matrix) |
