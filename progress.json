@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:25:56.552Z",
+  "generated_at": "2026-10-24T03:26:41.541Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -4049,6 +4049,19 @@
       "path": "math/0154-lora-parameter-and-compute-arithmetic",
       "first_solved_at": "2026-10-24T03:25:55.140Z",
       "last_pushed_at": "2026-10-24T03:25:55.140Z"
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-10-24T03:26:40.179Z",
+      "last_pushed_at": "2026-10-24T03:26:40.179Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }

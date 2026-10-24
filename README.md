@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**319** solved · 249 problems · 21 labs · 49 math
+**320** solved · 250 problems · 21 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-08-23 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-04-25 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-03-17 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-10-24 | [solution](problems/0073-calculate-dice-score-for-classification) |
 | [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2026-05-01 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-05-16 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-04-04 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
