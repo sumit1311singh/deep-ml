@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:38:54.962Z",
+  "generated_at": "2026-10-25T23:41:07.180Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -4114,6 +4114,19 @@
       "last_pushed_at": "2026-10-25T23:38:53.790Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:208": {
+      "kind": "problem",
+      "id": "208",
+      "title": "Flash Attention v1 - Forward Pass",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/208",
+      "path": "problems/0208-flash-attention-v1-forward-pass",
+      "first_solved_at": "2026-10-25T23:41:06.098Z",
+      "last_pushed_at": "2026-10-25T23:41:06.098Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
