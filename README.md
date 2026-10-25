@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**322** solved · 252 problems · 21 labs · 49 math
+**323** solved · 253 problems · 21 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -258,6 +258,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-13 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-04-21 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-05-31 | [solution](problems/0020-decision-tree-learning) |
+| [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-10-25 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2026-10-12 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-15 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-10-16 | [solution](problems/0904-implement-multi-head-self-attention) |
