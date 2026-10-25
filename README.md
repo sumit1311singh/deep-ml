@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**321** solved · 251 problems · 21 labs · 49 math
+**322** solved · 252 problems · 21 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-04-10 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-08-23 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-08-24 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
+| [Compute TPR and FPR from Classifications](https://www.deep-ml.com/problems/1217) | easy | 2026-10-25 | [solution](problems/1217-compute-tpr-and-fpr-from-classifications) |
 | [Construct Causal Attention Mask via tril and triu Methods](https://www.deep-ml.com/problems/965) | easy | 2026-10-19 | [solution](problems/0965-construct-causal-attention-mask-via-tril-and-triu-methods) |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-09 | [solution](problems/1232-conv2d-output-shape) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-04-05 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
