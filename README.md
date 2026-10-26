@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**326** solved · 255 problems · 22 labs · 49 math
+**327** solved · 255 problems · 23 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -285,6 +285,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-09-02 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-10-17 | [solution](labs/0010-design-your-own-attention-mechanism) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-14 | [solution](labs/0008-design-your-own-optimizer-numpy) |
+| [Fit Linear Regression with Autograd](https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9) | medium | 2026-10-26 | [solution](labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-07 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [MLP with Dropout and BatchNorm](https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b) | medium | 2026-10-07 | [solution](labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm) |
 | [MNIST: Design Your Own Pytorch Optimizer](https://www.deep-ml.com/labs/3) | medium | 2026-10-21 | [solution](labs/0003-mnist-design-your-own-pytorch-optimizer) |
