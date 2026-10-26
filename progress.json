@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:16:48.043Z",
+  "generated_at": "2026-10-26T22:32:07.734Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -4179,6 +4179,19 @@
       "last_pushed_at": "2026-10-26T22:16:47.003Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:1043": {
+      "kind": "problem",
+      "id": "1043",
+      "title": "Parallel Attention and FFN Transformer Block",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1043",
+      "path": "problems/1043-parallel-attention-and-ffn-transformer-block",
+      "first_solved_at": "2026-10-26T22:32:06.746Z",
+      "last_pushed_at": "2026-10-26T22:32:06.746Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
