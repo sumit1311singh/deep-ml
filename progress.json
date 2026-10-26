@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T21:36:54.670Z",
+  "generated_at": "2026-10-26T22:16:48.043Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -4166,6 +4166,19 @@
       "last_pushed_at": "2026-10-26T21:36:53.505Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:1040": {
+      "kind": "problem",
+      "id": "1040",
+      "title": "Parallel Transformer Block Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1040",
+      "path": "problems/1040-parallel-transformer-block-forward-pass",
+      "first_solved_at": "2026-10-26T22:16:47.003Z",
+      "last_pushed_at": "2026-10-26T22:16:47.003Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
