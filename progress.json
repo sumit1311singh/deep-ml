@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:41:07.180Z",
+  "generated_at": "2026-10-26T20:38:29.267Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -4127,6 +4127,19 @@
       "last_pushed_at": "2026-10-25T23:41:06.098Z",
       "language": "python",
       "lines": 44
+    },
+    "lab:34": {
+      "kind": "lab",
+      "id": "34",
+      "title": "Tinygrad: Build a Complete Training Loop",
+      "difficulty": "easy",
+      "category": "Tinygrad Fundamentals",
+      "url": "https://www.deep-ml.com/labs/34",
+      "path": "labs/0034-tinygrad-build-a-complete-training-loop",
+      "first_solved_at": "2026-10-26T20:38:28.080Z",
+      "last_pushed_at": "2026-10-26T20:38:28.080Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }
