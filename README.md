@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**332** solved · 260 problems · 23 labs · 49 math
+**333** solved · 261 problems · 23 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute TPR and FPR from Classifications](https://www.deep-ml.com/problems/1217) | easy | 2026-10-25 | [solution](problems/1217-compute-tpr-and-fpr-from-classifications) |
 | [Construct Causal Attention Mask via tril and triu Methods](https://www.deep-ml.com/problems/965) | easy | 2026-10-19 | [solution](problems/0965-construct-causal-attention-mask-via-tril-and-triu-methods) |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-09 | [solution](problems/1232-conv2d-output-shape) |
+| [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-10-27 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-04-05 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Cosine LR Schedule with Linear Warmup](https://www.deep-ml.com/problems/910) | easy | 2026-05-31 | [solution](problems/0910-cosine-lr-schedule-with-linear-warmup) |
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-09-18 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
