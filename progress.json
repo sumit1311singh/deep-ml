@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:06:35.631Z",
+  "generated_at": "2026-10-27T23:33:27.146Z",
   "items": {
     "lab:12": {
       "kind": "lab",
@@ -4205,6 +4205,19 @@
       "last_pushed_at": "2026-10-27T20:06:35.033Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:82": {
+      "kind": "problem",
+      "id": "82",
+      "title": "Grayscale Image Contrast Calculator",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/82",
+      "path": "problems/0082-grayscale-image-contrast-calculator",
+      "first_solved_at": "2026-10-27T23:33:26.759Z",
+      "last_pushed_at": "2026-10-27T23:33:26.759Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
