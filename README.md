@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**339** solved · 267 problems · 23 labs · 49 math
+**340** solved · 268 problems · 23 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -249,6 +249,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-13 | [solution](problems/1227-numerically-stable-softmax) |
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-09-14 | [solution](problems/1236-one-adam-update-step) |
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-14 | [solution](problems/1219-one-training-step) |
+| [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2026-11-02 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-05-03 | [solution](problems/0190-overlapping-max-pooling) |
 | [Parallel Attention and FFN Transformer Block](https://www.deep-ml.com/problems/1043) | medium | 2026-10-26 | [solution](problems/1043-parallel-attention-and-ffn-transformer-block) |
 | [Parallel Transformer Block Forward Pass](https://www.deep-ml.com/problems/1040) | medium | 2026-10-26 | [solution](problems/1040-parallel-transformer-block-forward-pass) |
