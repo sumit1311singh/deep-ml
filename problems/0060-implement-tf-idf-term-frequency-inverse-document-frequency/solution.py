@@ -17,13 +17,10 @@ def compute_tf_idf(corpus, query):
         for word in query:
             tf = doc.count(word) / len(doc) if len(doc) > 0 else 0
 
-            # Document frequency
             df = sum(1 for d in corpus if word in d)
 
-            # Smoothed inverse document frequency
             idf = np.log((N + 1) / (df + 1)) + 1
 
-            # TF-IDF
             scores.append(tf * idf)
 
         result.append(scores)
