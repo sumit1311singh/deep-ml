@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**343** solved · 271 problems · 23 labs · 49 math
+**344** solved · 272 problems · 23 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2026-04-12 | [solution](problems/0188-gradient-checkpointing) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-03-22 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-10-27 | [solution](problems/0082-grayscale-image-contrast-calculator) |
+| [Hash-Based Expert Routing for MoE Layers](https://www.deep-ml.com/problems/731) | easy | 2026-11-06 | [solution](problems/0731-hash-based-expert-routing-for-moe-layers) |
 | [Historical Context Compression Ratio](https://www.deep-ml.com/problems/455) | easy | 2026-10-29 | [solution](problems/0455-historical-context-compression-ratio) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-05-02 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Implement a Linear Layer Forward Pass in Tinygrad](https://www.deep-ml.com/problems/892) | easy | 2026-05-27 | [solution](problems/0892-implement-a-linear-layer-forward-pass-in-tinygrad) |
