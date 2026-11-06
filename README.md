@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**342** solved · 270 problems · 23 labs · 49 math
+**343** solved · 271 problems · 23 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -165,6 +165,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bilinear Image Resizing](https://www.deep-ml.com/problems/240) | medium | 2026-10-28 | [solution](problems/0240-bilinear-image-resizing) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-09-13 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-05-12 | [solution](problems/0079-binomial-distribution-probability) |
+| [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-11-06 | [solution](problems/0090-bm25-ranking) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-08-22 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-03-23 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-05-29 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
