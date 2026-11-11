@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**347** solved · 275 problems · 23 labs · 49 math
+**348** solved · 276 problems · 23 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-05-13 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-04-02 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-05-15 | [solution](problems/0282-calculate-svm-margin-width) |
+| [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-11-11 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-08-22 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-05-27 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute a Gradient with Tinygrad Autograd](https://www.deep-ml.com/problems/893) | easy | 2026-05-27 | [solution](problems/0893-compute-a-gradient-with-tinygrad-autograd) |
